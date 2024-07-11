@@ -13,5 +13,15 @@ public class ClassA {
 		System.out.println("method 3");
 	}
 	
-
+private void thar() {
+	System.out.println("thar");
+	
+}
+private void scorpioN() {
+	System.out.println("scorpio clasiic");
+	
+}
+private void bigDaddy() {
+	System.out.println("big daddy");
+}
 }
